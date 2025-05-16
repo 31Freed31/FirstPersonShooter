@@ -9,8 +9,8 @@
 
 ## 📽️ Демо и сборка
 
-- ▶️ [Видео-геймплей (YouTube)](https://your-youtube-link.com)
-- 📦 [Скачать сборку (Google Drive)](https://your-google-drive-link.com)
+- ▶️ [Видео-геймплей (YouTube)]()
+- 📦 [Скачать сборку (Google Drive)](https://drive.google.com/file/d/1IokIO2NbEr3oHomFQwzGh82PYG5Ft5da/view?usp=sharing)
 
 ---
 
