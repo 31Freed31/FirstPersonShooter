@@ -5,6 +5,7 @@
 
 ---
 
+📖 Read this in other languages: [🇷🇺 Русский](README_ru.md)
 ## 📽️ Demo & Build
 
 - ▶️ [Gameplay Video (YouTube)]()
