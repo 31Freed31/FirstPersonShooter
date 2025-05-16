@@ -9,7 +9,7 @@
 ## 📽️ Demo & Build
 
 - ▶️ [Gameplay Video (YouTube)]()
-- 📦 [Download Build (Google Drive)]()
+- 📦 [Download Build (Google Drive)](https://drive.google.com/file/d/1IokIO2NbEr3oHomFQwzGh82PYG5Ft5da/view?usp=sharing)
 
 ---
 
