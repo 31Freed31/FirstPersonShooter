@@ -1,8 +1,7 @@
 # 🎯 First-Person Shooter Prototype — Unreal Engine 5
 
 > Development: Blueprint-only | Engine: Unreal Engine 5.5  
-> Project Type: Single-player FPS with advanced shooting mechanics, custom animation, and modular HUD
-
+> Project Type: Single-player FPS with advanced shooting mechanics and custom animation
 ---
 
 📖 Read this in other languages: [🇷🇺 Русский](README_ru.md)
