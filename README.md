@@ -7,7 +7,7 @@
 📖 Read this in other languages: [🇷🇺 Русский](README_ru.md)
 ## 📽️ Demo & Build
 
-- ▶️ [Gameplay Video (YouTube)]()
+- ▶️ [Gameplay Video (YouTube)](https://www.youtube.com/watch?v=OYIQg-c7qh8&t=80s)
 - 📦 [Download Build (Google Drive)](https://drive.google.com/file/d/1IokIO2NbEr3oHomFQwzGh82PYG5Ft5da/view?usp=sharing)
 
 ---
