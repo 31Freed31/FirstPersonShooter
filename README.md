@@ -27,7 +27,7 @@
 - Custom animations for each movement and weapon state (idle, walk, run, etc.)
 
 ### 🎯 Levels
-- **Firing Range** — timed run through a series of static targets
+- **Firing Range** — eliminating targets and finding a way out
 - **Training Arena** — moving targets with live accuracy tracking and scoring
 
 ### 🧩 HUD & Objectives
