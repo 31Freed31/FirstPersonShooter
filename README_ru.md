@@ -60,11 +60,4 @@
   - True first-person view (visible body)
   - Lean mechanic with head movement and FOV handling
 
----
-
-## 👤 Автор
-
-**Разработчик**: Abdul  
-📧 Контакт: your@email.com  
-💼 GitHub: [@31Freed31](https://github.com/31Freed31)
 
