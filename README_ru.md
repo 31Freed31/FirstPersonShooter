@@ -40,7 +40,7 @@
 
 ## 🛠️ Используемые технологии
 
-- Unreal Engine 5.3 (Blueprint-only)
+- Unreal Engine 5.5 (Blueprint-only)
 - Animation System:
   - Animation Blueprints (State Machines, Blend Spaces)
   - Control Rig + Sequencer for locomotion
